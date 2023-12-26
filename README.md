@@ -10,10 +10,10 @@ Make sure you have the following installed on your machine:
 - npm (Node Package Manager): This comes with Node.js installation.
 
 ## Getting Started
+```bash
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/dineshramGovindaraj/react-crud.git
 
 2. Navigate to the project directory:
@@ -27,7 +27,7 @@ npm install
 4. Start the development server:
 
 npm start
-
+```
 ## Features
 
 Create: Add new items to the list.
@@ -43,4 +43,4 @@ ReactJS
 
 ## Live Link
 
-```
+
